@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Oliviermaignan currently learning web developpement at Simplon Grenoble France.
+- 👋 Hi, I’m @Oliviermaignan currently working as developper fullstack (Vue and Python)
 - 👀 I’m interested in coding cool and funny stuffs.
-- 🌱 I’m currently learning php.
+- 🌱 I’m currently learning go.
 - 💞️ I’m looking to collaborate on everything :)).
-- 📫 How to reach me ol.maignan@gmail.com
 - 😄 Pronouns: he...
 - ⚡ #Fun fact: try my new Tamagoshi Pivoine !...
 
